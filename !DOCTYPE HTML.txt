@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+<meta charset="utf-8">
+        <title>Welcome to D'stallion</title>
+   <style>
+
+            p{color:green;}
+            body{background-color:white;}
+            h1{color:black;}
+            
+        </style>     
+    </head>
+    <body>
+    <h1> ABOUT </h1>
+    <h2> Company Mission</h2>
+    <p id= "Mission-statment"> To become Nigeria’s greatest company by improving consumer's life </P>
+    <h3> Company Values</h3>
+<p> <strong>Question the Why before the How;</strong> At D’stallion, we believe that the only limit is the one we have set for ourselves. It’s important to understand why we’re setting a goal before questioning how to achieve it. <br>
+<strong>Embrace Failure & Uncertainty; </strong> At D’stallion, we believe that it is impossible to achieve success without failure. As success is a numbers game, the more we do, the more we fail. Therefore, get comfortable with failure! <br> 
+<strong>Achieving the bottom line with Compassion;</strong> At D’stallion, we understand that a business cannot succeed without achieving its metrics & bottom line. However, it’s important achieve our results by showing compassion to the environment & our employees. <br>
+<strong>Empowering Others through Our Actions; </strong>At D’stallion we seek to be a leader in all that we do. This means seeking deliberate actions that’ll allow us to empower others. 
+
+
+    </P>
+    </body>
+    </html>
